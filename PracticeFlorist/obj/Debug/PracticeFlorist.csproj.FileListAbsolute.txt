@@ -1,0 +1,46 @@
+E:\UNIVERSIDAD\Semestre2\Lenguajes\Programas\PracticeFlorist\PracticeFlorist\bin\Debug\PracticeFlorist.exe.config
+E:\UNIVERSIDAD\Semestre2\Lenguajes\Programas\PracticeFlorist\PracticeFlorist\bin\Debug\PracticeFlorist.exe
+E:\UNIVERSIDAD\Semestre2\Lenguajes\Programas\PracticeFlorist\PracticeFlorist\bin\Debug\PracticeFlorist.pdb
+E:\UNIVERSIDAD\Semestre2\Lenguajes\Programas\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.csprojResolveAssemblyReference.cache
+E:\UNIVERSIDAD\Semestre2\Lenguajes\Programas\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.Properties.Resources.resources
+E:\UNIVERSIDAD\Semestre2\Lenguajes\Programas\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.csproj.GenerateResource.Cache
+E:\UNIVERSIDAD\Semestre2\Lenguajes\Programas\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.exe
+E:\UNIVERSIDAD\Semestre2\Lenguajes\Programas\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.pdb
+E:\UNIVERSIDAD\Semestre2\Lenguajes\Programas\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.MainScreen.resources
+E:\UNIVERSIDAD\Semestre2\Lenguajes\Programas\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.FormCourier.resources
+E:\UNIVERSIDAD\Semestre2\Lenguajes\Programas\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.Orders.resources
+E:\UNIVERSIDAD\Semestre2\Lenguajes\Programas\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.Query.resources
+E:\UNIVERSIDAD\Semestre2\Lenguajes\Programas\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.IdCourier.resources
+E:\UNIVERSIDAD\Semestre2\Lenguajes\Programas\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.Result.resources
+E:\UNIVERSIDAD\Semestre2\Lenguajes\Programas\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.CityBirthDay.resources
+C:\Users\Juan Diego M\Desktop\PracticeFlorist\PracticeFlorist\bin\Debug\PracticeFlorist.exe.config
+C:\Users\Juan Diego M\Desktop\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.exe
+C:\Users\Juan Diego M\Desktop\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.pdb
+C:\Users\Juan Diego M\Desktop\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.csprojResolveAssemblyReference.cache
+C:\Users\Juan Diego M\Desktop\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.CityBirthDay.resources
+C:\Users\Juan Diego M\Desktop\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.IdCourier.resources
+C:\Users\Juan Diego M\Desktop\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.MainScreen.resources
+C:\Users\Juan Diego M\Desktop\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.FormCourier.resources
+C:\Users\Juan Diego M\Desktop\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.Orders.resources
+C:\Users\Juan Diego M\Desktop\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.Properties.Resources.resources
+C:\Users\Juan Diego M\Desktop\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.Result.resources
+C:\Users\Juan Diego M\Desktop\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.csproj.GenerateResource.Cache
+C:\Users\Juan Diego M\Desktop\PracticeFlorist\PracticeFlorist\bin\Debug\PracticeFlorist.exe
+C:\Users\Juan Diego M\Desktop\PracticeFlorist\PracticeFlorist\bin\Debug\PracticeFlorist.pdb
+C:\Users\Juan Diego M\Desktop\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.Query.resources
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\bin\Debug\PracticeFlorist.exe.config
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\bin\Debug\PracticeFlorist.exe
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\bin\Debug\PracticeFlorist.pdb
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.CityBirthDay.resources
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.IdCourier.resources
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.MainScreen.resources
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.FormCourier.resources
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.Orders.resources
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.Properties.Resources.resources
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.Query.resources
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.Result.resources
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.exe
+C:\Users\diego\OneDrive\Escritorio\PracticeFlorist\PracticeFlorist\obj\Debug\PracticeFlorist.pdb
